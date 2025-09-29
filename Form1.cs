@@ -17,40 +17,25 @@ namespace ValentinesDayForms
             InitializeComponent();
         }
 
-        public int count = 0;
+        public int count = 1;
 
         private void checkBoxYes_Click(object sender, EventArgs e)
         {
             MessageBox.Show("YAYAYAYAYAY YIPPEEEEEE", "Happiest day of my life", MessageBoxButtons.OK);
-            MessageBox.Show("You are now Tea's valentine MWAH", "Happiest day of my life", MessageBoxButtons.OK);
+            MessageBox.Show("You are now Tea's valentine!", "Happiest day of my life", MessageBoxButtons.OK);
             this.Close();
         }
 
         private void checkBoxNo_Click(object sender, EventArgs e)
         {
+            StringBuilder sb = new StringBuilder();
+            for (int i = 0; i < count; i++)
+            {
+                sb.Append("PLEASE. ");
+            }
+            MessageBox.Show(sb.ToString().Trim(), "Are you sure?", MessageBoxButtons.RetryCancel);
+            
             count++;
-
-            if (count == 1)
-            {
-                MessageBox.Show("Please.", "Are you sure?", MessageBoxButtons.RetryCancel);
-            }
-            else if (count == 2)
-            {
-                MessageBox.Show("Pretty please.", "Are you sure?", MessageBoxButtons.RetryCancel);
-            }
-            else if (count == 3)
-            {
-                MessageBox.Show("PLEASE.", "ARE YOU SURE?", MessageBoxButtons.RetryCancel);
-            }
-            else if (count == 4)
-            {
-                MessageBox.Show("PLEASE PLEASE PLEASE PLEASE PLEASE.", "ARE YOU SURE?", MessageBoxButtons.RetryCancel);
-            }
-            else
-            {
-                MessageBox.Show("PLEASE PLEASE PLEASE PLEASE PLEASE PLEASE PLEASE PLEASE PLEASE PLEASE PLEASE PLEASE PLEASE PLEASE PLEASE PLEASE PLEASE PLEASE.",
-                    "PLEASE.", MessageBoxButtons.RetryCancel);
-            }
             this.checkBoxNo.Checked = false;
         }
     }
