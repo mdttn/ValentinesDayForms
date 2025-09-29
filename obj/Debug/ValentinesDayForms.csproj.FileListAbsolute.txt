@@ -1,0 +1,15 @@
+C:\Users\there\OneDrive\Documents\ValentinesDayForms\bin\Debug\ValentinesDayForms.exe.config
+C:\Users\there\OneDrive\Documents\ValentinesDayForms\bin\Debug\ValentinesDayForms.exe
+C:\Users\there\OneDrive\Documents\ValentinesDayForms\bin\Debug\ValentinesDayForms.pdb
+C:\Users\there\OneDrive\Documents\ValentinesDayForms\obj\Debug\ValentinesDayForms.csproj.AssemblyReference.cache
+C:\Users\there\OneDrive\Documents\ValentinesDayForms\obj\Debug\ValentinesDayForms.Form1.resources
+C:\Users\there\OneDrive\Documents\ValentinesDayForms\obj\Debug\ValentinesDayForms.Properties.Resources.resources
+C:\Users\there\OneDrive\Documents\ValentinesDayForms\obj\Debug\ValentinesDayForms.csproj.GenerateResource.cache
+C:\Users\there\OneDrive\Documents\ValentinesDayForms\obj\Debug\ValentinesDayForms.csproj.CoreCompileInputs.cache
+C:\Users\there\OneDrive\Documents\ValentinesDayForms\obj\Debug\ValentinesDayForms.exe
+C:\Users\there\OneDrive\Documents\ValentinesDayForms\obj\Debug\ValentinesDayForms.pdb
+C:\Users\there\OneDrive\Documents\ValentinesDayForms\bin\Debug\ValentinesDayForms.exe.manifest
+C:\Users\there\OneDrive\Documents\ValentinesDayForms\bin\Debug\ValentinesDayForms.application
+C:\Users\there\OneDrive\Documents\ValentinesDayForms\obj\Debug\ValentinesDayForms.exe.manifest
+C:\Users\there\OneDrive\Documents\ValentinesDayForms\obj\Debug\ValentinesDayForms.application
+C:\Users\there\OneDrive\Documents\ValentinesDayForms\obj\Debug\ValentinesDayForms.exe.config
